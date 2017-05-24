@@ -9,6 +9,11 @@
   - удаление лишних пробелов и переносов строк
   - связывание союзов и любых слов из 1-2 символов с последующими словами
 
+# Start poject
+
+   `pip install -r requirements.txt`
+   `python server.py`
+
 # Project Goals
 
 The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
