@@ -4,6 +4,7 @@ from typograf import review_text
 
 app = Flask(__name__)
 
+
 @app.route('/', methods=['GET', 'POST'])
 def form():
     result_text = ''

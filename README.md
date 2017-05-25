@@ -12,6 +12,7 @@
 # Start poject
 
    `pip install -r requirements.txt`
+   
    `python server.py`
 
 # Project Goals
